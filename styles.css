@@ -1,13 +1,22 @@
-#myContainer {
-  width: 400px;
-  height: 400px;
-  position: relative;
-  background: yellow;
+/* colour palette
+light green: #ccf6c8
+light yellow : #fafcc2
+light orange: #f6d6ad
+light pink: #f9c0c0
+*/
+
+h1{
+    background:transparent;
+    line-height: 5px;
+    text-align: center;
 }
 
-#myAnimation {
-  width: 50px;
-  height: 50px;
-  position: absolute;
-  background: red;
+body{
+    background:white;
+    margin: 0;
+    height: 100%;
+}
+#bongocats{
+  height:100%;
+  width:100%;
 }
