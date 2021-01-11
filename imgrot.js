@@ -9,7 +9,7 @@ function movecat(cat) {
         left=left+5; 
         //elem.style.bottom = pos + 'px'; 
         cat.style.left = left + 'px'; 
-        cat.style.transform="skewY("+getRandomInt(1,500)+"deg) "+"rotate("+getRandomInt(1,500)+"deg)";
+        cat.style.transform="rotate("+getRandomInt(1,500)+"deg)";
       }
     }
     //cat.style.display="None";
